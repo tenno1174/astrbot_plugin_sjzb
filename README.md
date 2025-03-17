@@ -1,8 +1,8 @@
-# helloworld
+# 绝地潜兵2随机战备插件
 
-AstrBot 插件模板
+AstrBot 插件
 
-A template plugin for AstrBot plugin feature
+使你的机器人通过指令输出一条随机的战备组合（固定4格）
 
 # 支持
 
