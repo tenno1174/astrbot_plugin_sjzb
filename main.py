@@ -3,7 +3,7 @@ from astrbot.api.star import Context, Star, register
 from astrbot.api import logger
 from .randomzb import get_random_numbers
 
-@register("sjzb", "灵煞", "一个输出绝地潜兵随机战备插件", "1.0.0")
+@register("sjzb", "灵煞", "一个输出绝地潜兵随机战备插件", "1.0.1")
 class MyPlugin(Star):
     def __init__(self, context: Context):
         super().__init__(context)
